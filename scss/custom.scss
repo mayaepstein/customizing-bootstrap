@@ -2,11 +2,20 @@
 // This is the file you will want to update to customize your page.
 
 // Import Google fonts here
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3&display=swap');
 
 
 // Include any default variable overrides here (colors, font sizes, font family, etc..)
+$primary: #A04ADD;
+$secondary: #3B53C7;
+$success: #A4D882;
+$info: #59C1EF;
+$warning: #FFF689;
+$danger: #E5446D;
+$light: #f2f2f2;
+$dark: #181853;
 
+$navbar-dark-color: #181853;
 
 
 // Adjust nav link hover color here
@@ -15,10 +24,9 @@
 
 // Typography
 // Change font family for base text
-
-
+$font-family-base: 'Source Sans 3', sans-serif;
 // Change font family for headings
-
+$headings-font-family: 'Libre Baskerville', serif;
 
 
 // Change font sizes for h1-h6 using values in assignment
